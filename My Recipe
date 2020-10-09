@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Recipe</title>
+</head>
+<h1> style=background-color:#FFFACD;color#000000;">French Toast</h1>
+<body style="background-color:#FFDEAD;">
+   <style>
+    h1{font-weight:bold;
+    font-family:arial black;
+    }
+    
+    ul{font-weight:bold;
+    font-family:arial;
+    }
+    ol{font-family:arial;
+    }
+    
+    </style>
+    <body>
+    <h1>Ingredients</h1>
+    <ul>
+       <img src="Wheat Bread.jpg"height="100">
+       <li>6 slices</li>
+       <img src="large eggs.jpg"height="100">
+       <li>4 eggs</li>
+       <img src="cup milk.jpg"height="100">
+       <li>1 cup milk</li>
+       <img src="brown sugar.jpg"height="100">
+       <li>2 tsp.brown sugar</li>
+       <img src="vanilla extract.jpg"height="100">
+       <li>1 tsp.vanilla extract</li>
+       <img src="cinnamon.jpg"height="100">
+       <li>1 tsp.cinnamon</li>
+       <img src="strawberries, sliced.jpg"height="100">
+       <li>4 strawberries, sliced</li>
+       <img src="cup blueberries.jpg"height="100">
+       <li>1/2 cup blueberries</li>
+       <img src="cup raspberries.jpg"height="100">
+       <li>1/2 cup rasberries</li>
+       </ul>
